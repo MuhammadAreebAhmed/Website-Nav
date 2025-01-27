@@ -29,3 +29,48 @@
 #slider {
     width: 100%;
 }
+.post-list {
+    height: 170px;
+}
+ .list-heading h2 {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 40px;
+ }
+
+ .list-heading-para {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    
+ }
+
+ .three-image {
+    padding: 10px;  
+ }
+
+ .pic-radius {
+    border-radius: 10px;
+    padding: 20px;
+ }
+ 
+.order-btn {
+    padding: 25px 36px;
+    margin: 0px auto;
+}
+
+.first-sec-head {
+    font-size: 3.5rem;
+    margin-top: 20px;
+    padding-top: 50px;
+}
+

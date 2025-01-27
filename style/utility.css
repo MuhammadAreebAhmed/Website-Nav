@@ -104,4 +104,8 @@ html {
 .radius-btn {
     border-radius: 30px;
     cursor: pointer;
+    padding: 12px 26px;
+}
+.mx-1 {
+    margin-top: 200px;
 }
