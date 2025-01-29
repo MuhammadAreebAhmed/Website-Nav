@@ -36,7 +36,7 @@
     font-family: 'Apercu';
     font-style: normal;
     font-weight: 400;
-    font-size: 40px;
+    font-size: 48px;
     line-height: 50px;
     text-align: center;
     color: #FFFFFF;
@@ -158,4 +158,86 @@
     position: absolute;
     right: 32px;
     
+}
+
+.new-card-box h3 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 18px;
+}
+
+.new-card-box h3 span.heading-font-express {
+    font-family: 'futurak';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.new-card-box small {
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.48em;
+    text-transform: uppercase;
+    color: #ED1C24;
+    text-align: center;
+    margin-bottom: 8px;
+    display: block;
+    margin-top: 24px;
+}
+
+.new-card-box p {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 12px;
+    height: 36px;
+    text-align: center;
+}
+
+.new-card-box p a {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.new-card-box img {
+    height: 250px;
+}
+
+.new-card-box a.btn-franchise {
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.7);
+    
+}
+
+.new-card-box {
+    margin-bottom: 32px;
+    text-align: center;
 }
