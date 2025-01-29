@@ -129,13 +129,6 @@
     margin-bottom: 24px;
 }
 
-.franchise-home {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-
-}
-
 .franchise-info a.btn-franchise {
     width: 174px;
     height: 50px;
@@ -152,7 +145,17 @@
     margin-top: 400px;
 }
 
-.franchise-home {
-    margin-bottom: 48px;
-    display: flex;
+.franchise-home-second {
+    margin-top: 48px;
+    flex-direction: row-reverse;
+}
+
+.franchise-home-third {
+    margin-top: 48px;
+}
+
+.snp-rightside-one {
+    position: absolute;
+    right: 32px;
+    
 }
