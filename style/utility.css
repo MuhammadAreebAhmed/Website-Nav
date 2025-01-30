@@ -105,10 +105,14 @@ html {
     gap: 25px;
 }
 
+.gap-15 {
+    gap: 200px;
+}
+
 .radius-btn {
     border-radius: 30px;
     cursor: pointer;
-    padding: 12px 26px;
+    padding: 12px 35px;
 }
 .mx-1 {
     margin-top: 200px;
@@ -121,4 +125,8 @@ html {
     font-size: 52px;
     line-height: 62px;
     color: white;
+}
+
+.mt-3 {
+    margin-top: 30px;
 }

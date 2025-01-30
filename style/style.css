@@ -157,6 +157,7 @@
 .snp-rightside-one {
     position: absolute;
     right: 32px;
+    padding-top: 30px;
     
 }
 
@@ -241,3 +242,4 @@
     margin-bottom: 32px;
     text-align: center;
 }
+
