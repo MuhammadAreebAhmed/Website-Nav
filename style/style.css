@@ -260,3 +260,41 @@
     color: white;
     font-size: 1.5rem;
 }
+
+.express-box1 small {
+    font-family: 'apercu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 20px;
+    letter-spacing: 0.48em;
+    text-transform: uppercase;
+    color: #ED1C24;
+    margin-bottom: 8px;
+    display: block;
+}
+
+.express-box1 h3 span {
+    font-family: express-font;
+    color: black;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.express-box1 h3 {
+    color: #000000;
+    font-size: 21px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+    font-weight: 400px;
+}
+
+.express-box1 {
+    background-color: white;
+    text-align: center;
+    padding: 20px 60px;
+    border-radius: 5px;
+    margin-bottom: 32px;
+    
+}
