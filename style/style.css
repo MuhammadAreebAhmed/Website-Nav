@@ -223,6 +223,7 @@
 
 .new-card-box img {
     height: 250px;
+    width: 450px;
 }
 
 .new-card-box a.btn-franchise {
@@ -297,4 +298,15 @@
     border-radius: 5px;
     margin-bottom: 32px;
     
+}
+
+.social-food-heading {
+    font-size: 2.5rem;
+    margin-bottom: 50px;
+    color: grey;
+}
+
+.social-food img {
+    width: 300px;
+    margin-bottom: 50px;
 }
